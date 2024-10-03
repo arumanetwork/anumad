@@ -22,7 +22,7 @@ $ go version
 - Run the following commands to obtain and install anumad including all dependencies:
 
 ```bash
-$ git clone https://github.com/AnumaNetwork/anumad-testnet
+$ git clone https://github.com/arumanetwork/anumad
 $ cd anumad/cmd/anumactl
 $ go install .
 ```
