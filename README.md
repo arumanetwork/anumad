@@ -32,7 +32,7 @@ $ go version
 
 ```bash
 $ git clone https://github.com/arumanetwork/anumad
-$ cd anumad-testnet
+$ cd anumad
 $ go install . ./cmd/...
 ```
 
